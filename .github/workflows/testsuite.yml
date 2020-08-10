@@ -55,8 +55,7 @@ jobs:
             "perl:5.14",
             "perl:5.12",
             "perl:5.10",
-            # currently broken on 5.8
-            #"5.8",
+            "perl:5.8",
             "perldocker/perl:5.6"
           ]
 
